@@ -5,6 +5,8 @@
 
 ![Math GitHub stats](https://github-readme-stats.vercel.app/api?username=mathdev&show_icons=true&theme=radical)
 
+![Math Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username={Mathdevv}&theme=blue-green)
+
 
 ## _Tecnologias que mais utilizo no meu dia_
 
@@ -20,6 +22,6 @@
 ## _Contato_
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-euphrasio-857894296)
- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/m4oonym)
+   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/m4oonym)
 
    
