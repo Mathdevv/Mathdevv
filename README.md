@@ -1,12 +1,12 @@
 
-### Prazer, eu sou o Matheus Euphrasio👋
+### _Prazer, eu sou o Matheus Euphrasio👋_
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathdeev/)
 
 ![Math GitHub stats](https://github-readme-stats.vercel.app/api?username=mathdev&show_icons=true&theme=radical)
 
 
-## Tecnologias que mais utilizo no meu dia
+## _Tecnologias que mais utilizo no meu dia_
 
 <div style="display: inline_block"><br/>
 <img alignt="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -14,8 +14,11 @@
 <img alignt="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div><br/>
 
-## Apaixonado pela programação.
+## _Apaixonado pela programação._
 
-## Contato
+## _Contato_
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-euphrasio-857894296)
+
+
+   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/m4oonym)
