@@ -5,8 +5,6 @@
 
 ![Math GitHub stats](https://github-readme-stats.vercel.app/api?username=mathdev&show_icons=true&theme=radical)
 
-![Math Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username={Mathdevv}&theme=blue-green)
-
 
 ## _Tecnologias que mais utilizo no meu dia_
 
