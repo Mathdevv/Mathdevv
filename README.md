@@ -1,10 +1,9 @@
 
-### _Prazer, eu sou o Matheus Euphrasio👋_
+## _Prazer, eu sou o Matheus Euphrasio👋_
 
+### _Sou um desenvolvedor iniciante_
 
 ![Math GitHub stats](https://github-readme-stats.vercel.app/api?username=mathdev&show_icons=true&theme=radical)
-
-![Math Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username={Mathdevv}&theme=blue-green)
 
 
 ## _Tecnologias que mais utilizo no meu dia_
