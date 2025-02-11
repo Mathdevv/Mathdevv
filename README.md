@@ -15,8 +15,6 @@
 <img alignt="center" alt="css3" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </div><br/>
 
-## _Apaixonado pela programação._
-
 ## _Contato_
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-euphrasio-857894296)
