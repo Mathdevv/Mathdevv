@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Matheus Paim
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Java`**
 
 Me chamo Matheus Paim, tenho 17 anos e sou natural do São Paulo. Concluí o ensino médio na etec, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Serra Dourada. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu github.
 
@@ -31,15 +31,6 @@ Me chamo Matheus Paim, tenho 17 anos e sou natural do São Paulo. Concluí o ens
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 <img 
     align="left" 
