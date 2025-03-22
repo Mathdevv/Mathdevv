@@ -29,16 +29,17 @@ Me chamo Matheus Paim, tenho 17 anos e sou natural do São Paulo. Concluí o ens
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg)" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Git" 
+    title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" 
 />
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -46,14 +47,6 @@ Me chamo Matheus Paim, tenho 17 anos e sou natural do São Paulo. Concluí o ens
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img 
     align="left" 
