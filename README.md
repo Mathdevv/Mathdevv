@@ -74,7 +74,7 @@ Me chamo Matheus Paim, tenho 17 anos e sou natural do São Paulo. Concluí o ens
    <img 
       align="left" 
       alt="GitHub Stats" 
-      height="201" 
+      height="250" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathdevv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
